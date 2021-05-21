@@ -25,6 +25,7 @@ You can start with one of the demos:
 * [ApproximateEigenbasis1D.m](ApproximateEigenbasis1D.m): Example with the Mat&egrave;rn kernel on an interval.
 * [ApproximateEigenbasis.m](ApproximateEigenbasis.m): Example with the Gaussian kernel on the unit disk.
 
+Notice that both demos actually compute the eigenbasis elements as <img src="https://render.githubusercontent.com/render/math?math=%24%5Csqrt%7B%5Clambda_j%7D%20%5Cvarphi_j%24">, i.e., with a normalization that makes them orthonormal in the RKHS of the kernel.
 
 
 ## How to cite:
@@ -44,4 +45,4 @@ If you use this code in your work, please consider citing the paper
 }
 ```
 
-Latex formulas are rendered using [https://jsfiddle.net/](https://jsfiddle.net/).
+Latex formulas are rendered using [https://jsfiddle.net/8ndx694g/](https://jsfiddle.net/8ndx694g/).
