@@ -51,6 +51,7 @@ for j = 1 : nPlot
     contour(xx, yy, fplot, 15, 'linewidth', 2), %hold on
     axis equal
     set(gca, 'XTickLabel', '', 'YTickLabel', '')
+    axis off
 end
 
 
