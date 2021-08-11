@@ -13,7 +13,7 @@ with
 
 <img src="https://render.githubusercontent.com/render/math?math=%5Clambda_j%20%5Cvarphi_j(x)%20%3D%20%5Cint_%7B%5COmega%7D%20%5Cvarphi_j(x)%20K(x%2C%20y)%20dy.%0A">
 
-This code approximates the unknown eigenfunctions <img src="https://render.githubusercontent.com/render/math?math=%24%5Cvarphi_1%2C%20%5Cdots%2C%20%5Cvarphi_n%2C%20%5Cdots%24"> and eigengvalues <img src="https://render.githubusercontent.com/render/math?math=%24%5Clambda_1%2C%20%5Cdots%2C%20%5Clambda_n%2C%20%5Cdots%24"> using the knowledge of <img src="https://render.githubusercontent.com/render/math?math=%24K%24"> and <img src="https://render.githubusercontent.com/render/math?math=%24%5COmega%24">.
+This code approximates the unknown eigenfunctions <img src="https://render.githubusercontent.com/render/math?math=%24%5Cvarphi_1%2C%20%5Cdots%2C%20%5Cvarphi_n%2C%20%5Cdots%24"> and eigenvalues <img src="https://render.githubusercontent.com/render/math?math=%24%5Clambda_1%2C%20%5Cdots%2C%20%5Clambda_n%2C%20%5Cdots%24"> using the knowledge of <img src="https://render.githubusercontent.com/render/math?math=%24K%24"> and <img src="https://render.githubusercontent.com/render/math?math=%24%5COmega%24">.
 
 The code implements the algorithm of
 > G. Santin and R. Schaback, [Approximation of Eigenfunctions in Kernel-based Spaces](https://link.springer.com/article/10.1007/s10444-015-9449-5), Adv. Comput. Math., Vol. 42 (4), 973–993 (2016)
